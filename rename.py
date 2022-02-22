@@ -34,7 +34,7 @@ def main(directory: str):
     for _file in Path(directory).glob("*.html"):
         new_filename = get_new_name(_file)
         os.rename(str(_file), str(new_filename))
-        # print(f"renaming {_file} to {new_filename}")
+        print(f"renaming {_file} to {new_filename}")
 
 
 if __name__ == "__main__":
