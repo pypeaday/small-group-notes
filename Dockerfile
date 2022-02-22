@@ -1,5 +1,5 @@
 from python:3.8-slim
 
-copy ./posts ./posts
+copy ./app /app
 
 cmd ["python3",  "server.py"]
