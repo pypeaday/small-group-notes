@@ -7,7 +7,7 @@
 3. `ansible-vault decrypt .env`
 4. `docker-compose build`
 5. `ansible-vault encrypt .env`
-6. `docker-compose up -D`
+6. `docker-compose up -d`
 
 ## TODO
 
