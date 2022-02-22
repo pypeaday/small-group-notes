@@ -12,4 +12,5 @@
 ## TODO
 
 1. Move site to server
+2. Try to make it look nicer... the `app` directory and `server.py` aren't doing anything right now
 
