@@ -1,5 +1,5 @@
 from python:3.8-slim
 
-copy ./app /app
+copy . .
 
-cmd ["python3", "-m", "http.server", "--directory", "/app/posts", "80"]
+cmd ["python3", "-m", "http.server", "--directory", "posts", "80"]
