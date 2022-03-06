@@ -1,0 +1,4 @@
+.venv/*
+.markata.cache/*
+.mypy_cache/*
+markout/*
