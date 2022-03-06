@@ -23,7 +23,7 @@ def get_new_name(filepath: Path) -> Path:
         digi, title = filepath.name.split("_")
     except ValueError:  # not a numbered post
         return filepath
-    new_digi = "{0}".format(digi.zfill(2))
+    new_digi = "{0}".format(digi.zfill(3))
 
     new_filename = Path(filepath.parent, f"{new_digi}:{title}")
     return new_filename
@@ -38,4 +38,4 @@ def main(directory: str):
 
 
 if __name__ == "__main__":
-    main("./app/posts")
+    main("./posts")
