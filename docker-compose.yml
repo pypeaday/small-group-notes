@@ -11,4 +11,4 @@ services:
       traefik.http.routers.smallgroup.tls.certresolver: "letsencrypt"
       traefik.http.routers.smallgroup.tls.domains[0].main: "${DOMAIN}"
       traefik.http.routers.smallgroup.tls.domains[0].sans: "*.${DOMAIN}"
-      traefik.http.services.smallgroup.loadbalancer.server.port: "8000"
+      traefik.http.services.smallgroup.loadbalancer.server.port: "80"
