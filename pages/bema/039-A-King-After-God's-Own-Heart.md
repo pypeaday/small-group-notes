@@ -3,7 +3,7 @@
 templateKey: blog-post
 tags: ['bema']
 title: 039 A King After God's Own Heart
-date: 2022-01-01T00:00:00
+date: 2022-01-31T00:00:00
 status: published
 cover: ""
 ---

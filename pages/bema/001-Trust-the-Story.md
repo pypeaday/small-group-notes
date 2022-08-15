@@ -3,7 +3,7 @@
 templateKey: blog-post
 tags: ['bema']
 title: 001 Trust the Story
-date: 2022-01-01T00:00:00
+date: 2022-01-1T00:00:00
 status: published
 cover: ""
 ---

@@ -3,7 +3,7 @@
 templateKey: blog-post
 tags: ['bema']
 title: 021 With All Your Soul & Very
-date: 2022-01-01T00:00:00
+date: 2022-01-21T00:00:00
 status: published
 cover: ""
 ---

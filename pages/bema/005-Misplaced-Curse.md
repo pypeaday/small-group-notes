@@ -3,7 +3,7 @@
 templateKey: blog-post
 tags: ['bema']
 title: 005 Misplaced Curse
-date: 2022-01-01T00:00:00
+date: 2022-01-5T00:00:00
 status: published
 cover: ""
 ---

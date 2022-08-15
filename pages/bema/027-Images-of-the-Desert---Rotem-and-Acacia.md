@@ -3,7 +3,7 @@
 templateKey: blog-post
 tags: ['bema']
 title: 027 Images of the Desert - Rotem and Acacia
-date: 2022-01-01T00:00:00
+date: 2022-01-27T00:00:00
 status: published
 cover: ""
 ---

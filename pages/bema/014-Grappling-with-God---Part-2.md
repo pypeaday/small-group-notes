@@ -3,7 +3,7 @@
 templateKey: blog-post
 tags: ['bema']
 title: 014 Grappling with God - Part 2
-date: 2022-01-01T00:00:00
+date: 2022-01-14T00:00:00
 status: published
 cover: ""
 ---

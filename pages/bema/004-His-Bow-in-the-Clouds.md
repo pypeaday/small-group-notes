@@ -3,7 +3,7 @@
 templateKey: blog-post
 tags: ['bema']
 title: 004 His Bow in the Clouds
-date: 2022-01-01T00:00:00
+date: 2022-01-4T00:00:00
 status: published
 cover: ""
 ---

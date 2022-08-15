@@ -3,7 +3,7 @@
 templateKey: blog-post
 tags: ['bema']
 title: 034 The Hardest Story in the Bible (for Mary)
-date: 2022-01-01T00:00:00
+date: 2022-01-30T00:00:00
 status: published
 cover: ""
 ---

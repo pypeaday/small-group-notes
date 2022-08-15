@@ -3,7 +3,7 @@
 templateKey: blog-post
 tags: ['bema']
 title: 026 Images of the Desert
-date: 2022-01-01T00:00:00
+date: 2022-01-26T00:00:00
 status: published
 cover: ""
 ---

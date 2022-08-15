@@ -3,7 +3,7 @@
 templateKey: blog-post
 tags: ['bema']
 title: 024 Creating a Space
-date: 2022-01-01T00:00:00
+date: 2022-01-24T00:00:00
 status: published
 cover: ""
 ---

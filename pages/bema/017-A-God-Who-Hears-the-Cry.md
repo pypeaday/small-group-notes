@@ -3,7 +3,7 @@
 templateKey: blog-post
 tags: ['bema']
 title: 017 A God Who Hears the Cry
-date: 2022-01-01T00:00:00
+date: 2022-01-17T00:00:00
 status: published
 cover: ""
 ---

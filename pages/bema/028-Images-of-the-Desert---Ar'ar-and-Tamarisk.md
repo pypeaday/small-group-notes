@@ -3,7 +3,7 @@
 templateKey: blog-post
 tags: ['bema']
 title: 028 Images of the Desert - Ar'ar and Tamarisk
-date: 2022-01-01T00:00:00
+date: 2022-01-28T00:00:00
 status: published
 cover: ""
 ---

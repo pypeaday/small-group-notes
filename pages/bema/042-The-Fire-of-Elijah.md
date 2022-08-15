@@ -3,7 +3,7 @@
 templateKey: blog-post
 tags: ['bema']
 title: 042 The Fire of Elijah
-date: 2022-01-01T00:00:00
+date: 2022-01-31T00:00:00
 status: published
 cover: ""
 ---
