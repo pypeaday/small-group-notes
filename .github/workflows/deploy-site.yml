@@ -43,9 +43,9 @@ jobs:
       - name: run markata
         run: markata build --no-pretty
 
-      # - name: create root
-      #   run: |
-      #       cp static/index.html markout/index.html
+      - name: create root
+        run: |
+            cp static/index.html markout/index.html
 
       - name: sw-version
         run: export checksum=$(checksumdir markout ) && cat static/sw.js | envsubst > markout/sw.js
