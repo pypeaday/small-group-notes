@@ -27,7 +27,9 @@ def pre_render(markata):
             )
             article.content = article.content + "\n\n".join(
                 [
-                    "https://pype.dev/" + a.metadata["slug"] + "/"
+                    "https://nicpayne713.github.io/small-group-notes/"
+                    + a.metadata["slug"]
+                    + "/"
                     for a in related_articles
                 ]
             )
