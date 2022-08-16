@@ -28,9 +28,9 @@ def main():
             notes=text, title=f.stem.replace(":", ""), i=f"{i}T00:00:00".zfill(2)
         )
 
-        Path(f"./pages/bema/{f.stem.replace(':', '').replace(' ', '-')}.md").write_text(
-            new
-        )
+        Path(
+            f"./pages/bema2/{f.stem.replace(':', '').replace(' ', '-')}.md"
+        ).write_text(new)
 
 
 if __name__ == "__main__":
