@@ -89,8 +89,3 @@ Jesus didn't say the paranthetical comment "(let the reader understand)" even th
 ### 4:4-4:21
 
 Jesus' point is to _not get caught up in eschatological ideas_... __TL;DR the world is getting crazy__
-
-
-
-
-
