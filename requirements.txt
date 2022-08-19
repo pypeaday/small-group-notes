@@ -1,4 +1,4 @@
-markata
+markata --pre
 python-twitter
 background
 pyinstrument
