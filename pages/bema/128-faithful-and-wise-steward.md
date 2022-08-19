@@ -152,6 +152,34 @@ __When something is taken and something remains it is the good thing that remain
 So when Jesus says there's two men in the field, or two women grinding at the
 mill... who will be taken? The bad one.. who will be left? **the good one**
 
+__Dispensationalism is a theology best left behind__
+
+_But this passage isn't about eschatology anyways - it's about their current Jerusalem_
+
+### 4:45-51
+
+Who is the faithful and wise steward? It's the priesthood, and they are not getting the job done.
+
+__I don't quite follow Marty's points on this part of the passage - he jumps right into a summary__
+
+## Summary
+
+**This has been Jesus' response to the disciples when they asked about the end times**
+
+1. There will be rumors of false messiahs - do not believe them
+2. The world is going to get crazy and there's nothing you can do to stop it 
+3. All of these things are going to happen and you have to persevere
+4. You have to be ready - which means taking care of God's people
+5. The priests aren't doing it so you have to
+6. Persevere and be ready by taking care of the oppressed (God's people or not)
+
+Jesus reenforces this teaching by telling us 3 parables in rapid succession.
+Did Jesus actually say them back to back to back? We'll never know but we do
+know it's how Matthew recorded it which is just as significant.
+
+# The Parables
+
+timestamp: 25:14 - go back and listen to aprable again and organize notes
 
 
 
