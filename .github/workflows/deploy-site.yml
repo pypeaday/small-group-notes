@@ -41,7 +41,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: install markata --pre
-        run: pip install markata --pre 
+        run: pip install markata --pre --upgrade 
 
       - name: run markata
         run: markata build --no-pretty
