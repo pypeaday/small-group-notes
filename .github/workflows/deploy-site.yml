@@ -37,8 +37,11 @@ jobs:
         with:
           python-version: 3.8
 
-      - name: install markata
+      - name: install requirements
         run: pip install -r requirements.txt
+
+      - name: install markata --pre
+        run: pip install markata --pre 
 
       - name: run markata
         run: markata build --no-pretty
