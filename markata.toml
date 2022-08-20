@@ -40,7 +40,7 @@ hooks = [
 disabled_hooks = ["markata.plugins.covers", 'markata.plugins.flat_slug']
 
 ## Site Config
-url = "https://nicpayne713.github.io/small-group-notes/"
+url = "https://pypeaday.github.io/small-group-notes/"
 images_url = "/static/images"  # nothing yet
 title = "Nic's notes"
 description = "Notes for small groups, theology stuff, etc"
