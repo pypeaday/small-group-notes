@@ -258,7 +258,7 @@ know it's how Matthew recorded it which is just as significant.
 >
 > The Holy Bible: English Standard Version (Mt 25:1–46). (2016). Crossway Bibles.
 
-## Folish Bridesmaids
+## Foolish Bridesmaids
 
 Context of Jewish weddings helps us understand this parable. We know that the
 groom goes away to literally build onto his father's house a space for him and
@@ -289,15 +289,97 @@ marginalized, but the goats do not participate in God's justice for the world
 
 # Summary
 
-1. You're going to hear rumors of the end and false messiahs; do not believe it
-2. The world is going to get crazy and there is nothing you can do to stop it.
-3. All of this is going to have to happen and you will have to persevere.
-4. You will have to be ready; being ready means taking care of God's people.
-5. The priests aren't doing it, so you will have to 
-6. Persevere and be ready by taking care of the oppressed.
+The parables in Matthew 25 re-enforce the same set of points Jesus made in Matthew 24
+
+1. You're going to hear rumors of the end and false messiahs; do not believe it 
+2. The world is going to get crazy and there is nothing you can do to stop it. 
+3. All of this is going to have to happen and you will have to persevere. (Talents)
+4. You will have to be ready; being ready means taking care of God's people. (Bridesmaids)
+5. The priests aren't doing it, so you will have to (Sheep and Goats)
+6. Persevere and be ready by taking care of the oppressed. (Talents)
+
+## Ra-mez (Hebrew word Marty probably defines in session 2)
+
+> Jeremiah 25:8–11 (ESV)
+>
+> 8 “Therefore thus says the Lord of hosts: Because you
+> have not obeyed my words, 9 behold, I will send for all the tribes of the
+> north, declares the Lord, and for Nebuchadnezzar the king of Babylon, my
+> servant, and I will bring them against this land and its inhabitants, and
+> against all these surrounding nations. I will devote them to destruction, and
+> make them a horror, a hissing, and an everlasting desolation. 10 Moreover, I
+> will banish from them the voice of mirth and the voice of gladness, the voice
+> of the bridegroom and the voice of the bride, the grinding of the millstones
+> and the light of the lamp. 11 This whole land shall become a ruin and a
+> waste, and these nations shall serve the king of Babylon seventy years. 
+>
+>The Holy Bible: English Standard Version (Je 25:8–11). (2016). Crossway Bibles.
+
+The key to looking at these references is in the larger context of each ra-mez.
+
+Does it make sense in Matt 24/25 that Jesus ra-mez the use of Nebuchadnezzar as
+a tool of God to destroy the people to remove the sound of joy and weddings
+from their midst... Does it make sense that Jesus' drash would be the use of
+Rome to destroy the city of Jerusalem (wasn't that the whole point of Matthew
+24)
 
 
+## Parable of the Talents
 
+Matthew's parable of the talents is really confusing on its own because the
+context of Jesus' original parable is in the context of Herod of Antipas. Luke
+tells us a lot about the tension between Jesus and Herod of Antipas. So we need
+to understand the Talents in light of the parable Luke 19 records as the parable
+of the Minas. This might be the original/same parable, or is at least a
+relevant one.
 
+Jesus employs a rabbincal tool called "cal-va ho-mer" which means "greater and
+lesser". The rabbi uses a negative example to portray a universal trait. Then
+after making the case that the trait is true the rabbi will imply how much more
+than is the same truth applied in a positive example.
+
+When Herod the Great died - his kingdom was willed to his 3 sons and they each
+set said to Rome individually. They each asked Caesar to honor their father's
+will. The Jews (Phariasees) also set a delegation on the 4th ship to plead with
+Caesar to _not_ name Antipas king. He was named a Tetrarch instead which made
+Herod Antipas furious. He blamed the Pharisees and made an example of them by
+slaughtering them. This is the cultural setting that serves as the backdrop to
+the 10 Minas parable. The parable of the 10 talents is that someone will have
+to give an account for what we've been entrusted with. This principle helps us
+understand why the king is so evil in the parable - it's not God it's Herod
+Antipas.
+
+### The ra-mez
+
+> 2 Kings 22:3–7 (ESV)
+> 3 In the eighteenth year of King Josiah, the king sent
+> Shaphan the son of Azaliah, son of Meshullam, the secretary, to the house of
+> the Lord, saying, 4 “Go up to Hilkiah the high priest, that he may count the
+> money that has been brought into the house of the Lord, which the keepers of
+> the threshold have collected from the people. 5 And let it be given into the
+> hand of the workmen who have the oversight of the house of the Lord, and let
+> them give it to the workmen who are at the house of the Lord, repairing the
+> house 6 (that is, to the carpenters, and to the builders, and to the masons),
+> and let them use it for buying timber and quarried stone to repair the house.
+> 7 But no accounting shall be asked from them for the money that is delivered
+> into their hand, for they deal honestly.”
+>
+> The Holy Bible: English Standard Version (2 Ki 22:3–7). (2016). Crossway Bibles.
+
+We look back in OT and find God's people working on the temple. They are honest
+and so they don't even have to give an account. It's not the priests, but it's
+the people who are working on restoration who do not need to be trusted.
+Juxtaposed with the priests of Jesus' day who are not taking care God's people
+and so in their dishonesty will have to give an account. 
+
+Jesus' drash is that those who are not priests should do the work of the
+priests in restoring the world and if they are honest, in light of the priests'
+dishonesty, they are doing the work of the Lord and have no concern with giving
+an account.
+
+> Marty makes a point, probably that I'd know from earlier episodes, that
+> ra-mez's can be disputed, this is all an attempt at Biblical theology so this
+> isn't set it stone, but it demonstrates to me that there is SO MUCH MORE
+> still for me to grasp on how to study the Word of God.
 
 
