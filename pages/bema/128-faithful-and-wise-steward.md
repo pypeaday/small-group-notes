@@ -351,6 +351,8 @@ Antipas.
 
 ### The ra-mez
 
+**For the Parable of the talents**
+
 > 2 Kings 22:3–7 (ESV)
 > 3 In the eighteenth year of King Josiah, the king sent
 > Shaphan the son of Azaliah, son of Meshullam, the secretary, to the house of
@@ -382,4 +384,4 @@ an account.
 > isn't set it stone, but it demonstrates to me that there is SO MUCH MORE
 > still for me to grasp on how to study the Word of God.
 
-
+# timestampe 40:19 to come back to finish one more ra-mez on the parable of the sheep and goats
