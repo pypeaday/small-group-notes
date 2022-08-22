@@ -48,4 +48,11 @@ pg 18. "But whatever the nature of the composite object, you must keep him prayi
 
 > Lewis talking actual idolatry with meaningful consequences... not the "money is my idol" take most pastors preach
 
+## Chapter 5
+
+pg 23. "...while tens of thousands who do not go so far as that will nevertheless have their attention diverted from themselves to values and causes which they believe to be higher than the self. I know that the Enemy disapproves many of these causes. But that is where He is so unfair. He often makes prizes of humans who have given their lives for causes He think bad on the monstrously sophistical ground that the humans thought them good and were following the best they knew"
+
+> This reminds me of the young Tarkan in Narnia: The Last Battle, who Aslan ascribes all his good deeds done to Tash as done to himself - effectively saying the Tarkan's loyalty to the wrong god is honored by Aslan? Definitely want to know more about Lewis' thoughts there and here in Screwtape
+
+
 
