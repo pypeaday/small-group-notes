@@ -88,6 +88,12 @@ filter="date<=today and 'bema' in tags"
 [markata.archive.pages.bema-draft]
 filter="date<=today and 'bema' in tags and status=='draft'"
 
+[markata.archive.pages.books]
+filter="date<=today and 'books' in tags"
+
+[markata.archive.pages.books-draft]
+filter="date<=today and 'books' in tags and status=='draft'"
+
 [[markata.covers]]
 name='-dev'
 template = "static/cover-template.png"
