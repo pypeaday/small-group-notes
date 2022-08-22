@@ -11,7 +11,8 @@ args = "".join(sys.argv[1:])
 tags = []
 
 tagwords = {
-    'bema': "bema"
+    'bema': "bema",
+    'books': 'books',
 }
 
 tags = [tagwords[tag] for tag in tagwords if tag in args.lower()]
