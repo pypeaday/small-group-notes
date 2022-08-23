@@ -20,7 +20,7 @@ h1 {
 
 h2 {
     font-size: 1.63rem;
-    color: hsla(323, 47%, 70%, 1);
+    color: hsla(180, 45%, 32%, 1);
 }
 
 h3 {
@@ -173,7 +173,7 @@ body {
     /* background: rgb(42, 46, 54); */
     /* background: linear-gradient( 81deg, rgba(40, 44, 52, 1) 0%, rgba(58, 46, 61, 1) 100%); */
     /* background: linear-gradient(58deg ,#424854 0,#4f877adb 95%) */
-    background: black;
+    background: #000000ad;
     /* background: linear-gradient( 149deg ,#81AAFF 0,#83DCC8 90%); */
     /* background: black url("https://images.pype.dev/backdrop.webp") no-repeat center center fixed; */
     background-size: cover;
@@ -445,9 +445,6 @@ article.blog-post li > code {
 
 article.blog-post {
     overflow: hidden;
-    /* background: rgba(51, 0, 38, 0.13); */
-    /* background: hsla(234, 33%, 15%, 0.66); */
-    /* background: hsl(0deg 0% 7% / 90%); */
     background: #12201ee6;
     display: block;
     margin: 0.2rem;
