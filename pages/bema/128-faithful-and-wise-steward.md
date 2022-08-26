@@ -384,4 +384,18 @@ an account.
 > isn't set it stone, but it demonstrates to me that there is SO MUCH MORE
 > still for me to grasp on how to study the Word of God.
 
-# timestampe 40:19 to come back to finish one more ra-mez on the parable of the sheep and goats
+### Another ra-mez
+> 17 “As for you, my flock, thus says the Lord God: Behold, I judge between
+> sheep and sheep, between rams and male goats. 18 Is it not enough for you to
+> feed on the good pasture, that you must tread down with your feet the rest of
+> your pasture; and to drink of clear water, that you must muddy the rest of
+> the water with your feet? 19 And must my sheep eat what you have trodden with
+> your feet, and drink what you have muddied with your feet? 
+
+> The Holy Bible: English Standard Version (Eze 34:17–19). (2016). Crossway Bibles.
+
+Ezekiel's context is condemnation of the priesthood. 
+The deciding factor in the priest's judgement is how they treated others, which
+Jesus makes clear in his teaching is still the case and the Pharisees are not
+being faithful to treating others with mercy
+
