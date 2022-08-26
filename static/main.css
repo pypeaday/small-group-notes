@@ -170,17 +170,11 @@ body {
     padding: 0;
     background-size: 800px;
     min-height: 100vh;
-    /* background: rgb(42, 46, 54); */
-    /* background: linear-gradient( 81deg, rgba(40, 44, 52, 1) 0%, rgba(58, 46, 61, 1) 100%); */
-    /* background: linear-gradient(58deg ,#424854 0,#4f877adb 95%) */
     background: #000000ad;
-    /* background: linear-gradient( 149deg ,#81AAFF 0,#83DCC8 90%); */
-    /* background: black url("https://images.pype.dev/backdrop.webp") no-repeat center center fixed; */
     background-size: cover;
 }
 .flair{
     color: #3d9e9e;
-    /* background: -webkit-linear-gradient(-30deg, #e1af66, #c122ac); */
     background: -webkit-linear-gradient(-30deg, #66a1e1, #3b9e9a);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -205,11 +199,9 @@ ul.archive-list {
 li.post {
     margin: 0;
     width: 100%;
-    /* border-top: 1px solid #3d9e9e; */
     list-style-type: none;
     border-width: 1px;
     border-style: solid;
-    /* border-image: linear-gradient( to right, #3d9e9e, rgba(255,102,196,.2)) 1 0 100%; */
     border-image: linear-gradient( to right, #3d9e9e, rgba(255, 102, 196, .2)) 1 0 0 0;
     backdrop-filter: blur(10px);
     background: rgba(0, 0, 0, .25);
@@ -341,10 +333,6 @@ body {
     padding: 8rem 1rem 0;
     margin-top: -8rem;
     margin-bottom: 2.2rem;
-    /* background: linear-gradient( 149deg, rgba(40, 44, 52, 1) 0%, rgba(58, 46, 61, .0) 100%); */
-    /* background: linear-gradient( 149deg ,#81AAFF 0,#83DCC8 90%); */
-    /* background: linear-gradient(130deg ,#282c34 0,#68b0a0 99%); */
-    /* background: radial-gradient(#282c34 ,#68b0a0); */
     background: radial-gradient(ellipse at top, #282c34, transparent),
             radial-gradient(ellipse at bottom, #68b0a0, transparent);
     border-bottom: 1px solid #6788cc;
@@ -437,7 +425,6 @@ h2.toc {
 
 article.blog-post p > code,
 article.blog-post li > code {
-    /* background: rgba(255,20,147,.075); */
     background: #354c4c;
     padding: 0 .2rem;
 }
