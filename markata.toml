@@ -62,8 +62,12 @@ twitter_card = "summary_large_image"
 twitter_creator = "@pypeaday"
 twitter_site = "@pypeaday"
 
+color_link = "#64a1dd"
+color_accent = "#83dcc8cc"
+
 [markata.auto_publish.filters]
 blog_post='date<=today'
+
 
 [markata.archive]
 archive_template="pages/templates/archive_template.html"
@@ -94,4 +98,3 @@ filter="date<=today and 'books' in tags"
 
 [markata.archive.pages.books-draft]
 filter="date<=today and 'books' in tags and status=='draft'"
-
