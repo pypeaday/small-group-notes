@@ -64,6 +64,8 @@ twitter_site = "@pypeaday"
 
 color_link = "#64a1dd"
 color_accent = "#83dcc8cc"
+color_bg = '#1f2022'
+color_text = '#d8ebe6'
 
 [markata.auto_publish.filters]
 blog_post='date<=today'
