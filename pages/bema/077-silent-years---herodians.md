@@ -34,5 +34,5 @@ Embracing hellenism is not black and white, it is amoral... To spend money on
 life, enjoy entertainment, decorate our homes, etc... can we appreciate
 luxuries without compromising on Yahweh worship?
 
-
+timestamp: 21:45
 
