@@ -2,3 +2,4 @@
 .markata.cache/*
 .mypy_cache/*
 markout/*
+*pycache*
