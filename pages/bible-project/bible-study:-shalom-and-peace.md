@@ -13,7 +13,7 @@ tags:
 
 # Peace 
 
-!!! note
+!!! note ""
 
     generally means absnese of war
 
@@ -33,9 +33,8 @@ In Proverbs, to reconcile a broken relationship is to make shalom
 ## Isaiah
 
 
-!!! scripture
-    
-    Isaiah 9:6-7
+!!! scripture "Isaiah 9:6-7"
+
 
     6 For a child will be born to us, a son will be given to us;
     And the government will rest on His shoulders;
@@ -56,6 +55,7 @@ Jesus restores the broken relationship between humans and our creator.
     Ephesians 2:14-15
 
     Jesus himeself is our _Eirene_
+
 
 # Questions
 
@@ -81,7 +81,7 @@ Jesus restores the broken relationship between humans and our creator.
 
 Words: child, given to us, government will rest, no end to the increase, zeal...will accomplish this
 
-!!! note
+!!! note ""
 
     The prophet Isaiah looked forward to the arrival of the Prince of Peace, whose
     reign would lead to eternal shalom. Jesus’ arrival fulfilled Isaiah’s words.
