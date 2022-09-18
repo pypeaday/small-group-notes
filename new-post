@@ -11,6 +11,7 @@ args = "".join(sys.argv[1:])
 tags = []
 
 tagwords = {
+    'bible-project': 'bible-project',
     'bema': "bema",
     'books': 'books',
 }

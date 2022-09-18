@@ -70,6 +70,8 @@ color_text = '#d8ebe6'
 [markata.auto_publish.filters]
 blog_post='date<=today'
 
+[markata.index]
+index_template="pages/templates/index_template.html"
 
 [markata.archive]
 archive_template="pages/templates/archive_template.html"
@@ -89,6 +91,12 @@ filter="date>today"
 [markata.archive.pages.today]
 filter="date==today"
 
+[markata.archive.pages.bible-project]
+filter="date<=today and 'bible-project' in tags"
+
+[markata.archive.pages.bible-project-draft]
+filter="date<=today and 'bible-project' in tags and status=='draft'"
+
 [markata.archive.pages.bema]
 filter="date<=today and 'bema' in tags"
 
@@ -100,3 +108,4 @@ filter="date<=today and 'books' in tags"
 
 [markata.archive.pages.books-draft]
 filter="date<=today and 'books' in tags and status=='draft'"
+
