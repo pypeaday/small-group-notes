@@ -2,7 +2,7 @@
 date: 2022-09-18 06:38:32
 templateKey: blog-post
 title: Bible Study - Shalom and Peace
-status: draft
+status: published
 tags:
   - bible-project
 
@@ -59,7 +59,7 @@ Jesus restores the broken relationship between humans and our creator.
 
 # Questions
 
-!!! note
+!!! note "1"
 
     The prophet Isaiah looked forward to the arrival of a future king who would
     make a covenant of shalom (peace, well-being) with his people. This king
@@ -67,9 +67,8 @@ Jesus restores the broken relationship between humans and our creator.
     9:6-7 aloud together. What specific words or phrases stand out to you as
     you observe this passage and why?
 
-!!! scripture
+!!! scripture "Isaiah 9:6-7 6"
 
-    Isaiah 9:6-7 6
     For a child will be born to us, a son will be given to
     us; And the government will rest on His shoulders; And His name will be
     called Wonderful Counselor, Mighty God, Eternal Father, Prince of Peace.
@@ -79,9 +78,14 @@ Jesus restores the broken relationship between humans and our creator.
     Lord of hosts will accomplish this.
 
 
-Words: child, given to us, government will rest, no end to the increase, zeal...will accomplish this
+Words that stick out: 
+    - child
+    - given to us
+    - government will rest
+    - no end to the increase
+    - zeal...will accomplish this
 
-!!! note ""
+!!! note "2"
 
     The prophet Isaiah looked forward to the arrival of the Prince of Peace, whose
     reign would lead to eternal shalom. Jesus’ arrival fulfilled Isaiah’s words.
@@ -89,9 +93,7 @@ Words: child, given to us, government will rest, no end to the increase, zeal...
     King’s arrival to no-name shepherds? What does this tell you about the nature
     of God and his Kingdom?
 
-!!! scripture
-
-    Luke 2:9-15
+!!! scripture "Luke 2:9-15"
 
     9And an angel of the Lord suddenly stood before them, and the glory of the
     Lord shone around them; and they were terribly frightened. 10But the angel
@@ -110,8 +112,13 @@ Words: child, given to us, government will rest, no end to the increase, zeal...
     saying to one another, “Let us go straight to Bethlehem then, and see this
     thing that has happened which the Lord has made known to us.”
 
+At thsi point it seems obvious that the reason God came to the undesirable
+company of teh time was to illustrate that the Kingdom of Heaven was to be an
+upside down kingdom. Status and power are hinderences under Jesus' reign, so he
+builds his kingdom (from our perspective) from the ground up.
 
-!!! note
+
+!!! note "3"
 
     The biblical story shows how humanity often chooses a way of life apart
     from God and suffers as a result. According to Colossians 1:19-23 , what
@@ -124,7 +131,7 @@ Words: child, given to us, government will rest, no end to the increase, zeal...
 
     19For it was the Father’s good pleasure for all the fullness to dwell in
     Him, 20and through Him to reconcile all things to Himself, having made
-    peace through the blood of His cross; through Him, I say, whether things on
+    peace (εἰρηνοποιέω) through the blood of His cross; through Him, I say, whether things on
     earth or things in heaven.
 
     21And although you were formerly alienated and hostile in mind, engaged in
@@ -135,3 +142,60 @@ Words: child, given to us, government will rest, no end to the increase, zeal...
     heard, which was proclaimed in all creation under heaven, and of which I,
     Paul, was made a minister.
 
+God interacted with Creation as a created being himself, holding back
+_something_ in the person of Jesus. On our turf, God showed up to revive our
+lifeless souls and call us to live as citizens in his kingdom.
+
+!!! note "4"
+
+    Jesus offers his peace to all people as a gift. Read Ephesians 2:11-16 .
+    How did Jesus make peace between two sharply divided people groups (Jews
+    and Gentiles), and why did he do it (see Eph. 2:16)?
+
+!!! scripture "Ephesians 2:11-16"
+
+
+    11Therefore remember that formerly you, the Gentiles in the flesh, who are
+    called “Uncircumcision” by the so-called “Circumcision,” which is performed
+    in the flesh by human hands— 12remember that you were at that time separate
+    from Christ, excluded from the commonwealth of Israel, and strangers to the
+    covenants of promise, having no hope and without God in the world. 13But
+    now in Christ Jesus you who formerly were far off have been brought near by
+    the blood of Christ. 14For He Himself is our peace, who made both groups
+    into one and broke down the barrier of the dividing wall, 15by abolishing
+    in His flesh the enmity, which is the Law of commandments contained in
+    ordinances, so that in Himself He might make the two into one new man, thus
+    establishing peace, 
+
+    16and might reconcile them both in one body to God
+    through the cross, by it having put to death the enmity.
+
+Jesus broke down the dividing wall of Circumcision by fulfilling Torah. No
+longer do the people of God need to be circumcized into the covenant (we have
+baptism), and no longer are God's people separate from the world via outward
+appearances but instead by living lives loyal to a different God - to Yahweh
+
+!!! success ""
+
+    Jesus "put to death the enmity" by removing all *spiritually/covenantally relevant* barriers that separated Jews from Gentiles
+
+
+!!! note "5"
+
+    Now, let’s carefully read Ephesians 4:1-3 How can humility, gentleness,
+    patience, and love help maintain the unity Jesus calls his followers to?
+    What happens to unity when one of these virtues is missing?
+
+!!! scripture "Ephesians 4:1-3"
+
+    1Therefore I, the prisoner of the Lord, implore you to walk in a manner
+    worthy of the calling with which you have been called, 2with all humility
+    and gentleness, with patience, showing tolerance for one another in love,
+    3being diligent to preserve the unity of the Spirit in the bond of peace.
+
+These things don't just help maintain unity - they are the postures of life
+Jesus builds his Kingdom around (second to himself I suppose). Jesus levels the
+playing field for all people, and no one has anymore right to anything than
+anyone else. Things like humility (right view of oneself), gentleness,
+patience, love, etc. are necessary for Jesus' kingdom to look how he wants it
+to look
