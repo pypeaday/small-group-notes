@@ -1,7 +1,7 @@
 ---
 date: 2022-09-18 06:38:32
 templateKey: blog-post
-title: Bible Study - Shalom and Peace
+title: Shalom and Peace
 status: published
 tags:
   - bible-project
