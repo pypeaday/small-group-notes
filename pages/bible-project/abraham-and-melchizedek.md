@@ -67,19 +67,26 @@ and a ram is given to him by the LORD that covers the sins of Abraham's family.
 
 !!! scripture "Genesis 22:14"
 
-    14Abraham called the name of that place The Lord Will Provide, as it is said to this day, “In the mount of the Lord it will be provided.”
+    14Abraham called the name of that place The Lord Will Provide, as it is
+    said to this day, “In the mount of the Lord it will be provided.”
 
 !!! scripture "2 Chronicles 3:1"
 
     The Temple Construction in Jerusalem
 
-    1Then Solomon began to build the house of the Lord in Jerusalem on Mount Moriah, where the Lord had appeared to his father David, at the place that David had prepared on the threshing floor of Ornan the Jebusite.
+    1Then Solomon began to build the house of the Lord in Jerusalem on Mount
+    Moriah, where the Lord had appeared to his father David, at the place that
+    David had prepared on the threshing floor of Ornan the Jebusite.
 
 !!! scripture "Genesis 14:17-20"
 
     God’s Promise to Abram
 
-    17Then after his return from the defeat of Chedorlaomer and the kings who were with him, the king of Sodom went out to meet him at the valley of Shaveh (that is, the King’s Valley). 18And Melchizedek king of Salem brought out bread and wine; now he was a priest of God Most High. 19He blessed him and said,
+    17Then after his return from the defeat of Chedorlaomer and the kings who
+    were with him, the king of Sodom went out to meet him at the valley of
+    Shaveh (that is, the King’s Valley). 18And Melchizedek king of Salem
+    brought out bread and wine; now he was a priest of God Most High. 19He
+    blessed him and said,
 
     “Blessed be Abram of God Most High,
 
@@ -95,6 +102,7 @@ and a ram is given to him by the LORD that covers the sins of Abraham's family.
 !!! scripture "Genesis 22:1-14"
 
     The Offering of Isaac
+
     1Now it came about after these things, that God tested Abraham, and said to
     him, “Abraham!” And he said, “Here I am.” 2He said, “Take now your son,
     your only son, whom you love, Isaac, and go to the land of Moriah, and
@@ -126,4 +134,5 @@ and a ram is given to him by the LORD that covers the sins of Abraham's family.
     offering in the place of his son. 14Abraham called the name of that place
     The Lord Will Provide, as it is said to this day, “In the mount of the Lord
     it will be provided.”
+
 
