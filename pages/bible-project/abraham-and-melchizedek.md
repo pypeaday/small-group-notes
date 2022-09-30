@@ -145,35 +145,42 @@ and a ram is given to him by the LORD that covers the sins of Abraham's family.
 | Melchizedek provides bread and wine | Yahweh provides the ram | 
 | Yahweh gave Abram victory over Chedorlaomer | Yahweh gave Abraham Isaac's safety | 
 
-!!! note "2"
-As you review Hebrews 7
-Hebrews 7
+!!! note "3"
 
-Melchizedek’s Priesthood Like Christ’s
+    As you review Hebrews 7 , notice how the author assures their audience that
+    Jesus is better than any other priest. What are some of the reasons the
+    author provides? How is this good news for everyone?
 
-1For this Melchizedek, king of Salem, priest of the Most High God, who met Abraham as he was returning from the slaughter of the kings and blessed him, 2to whom also Abraham apportioned a tenth part of all the spoils, was first of all, by the translation of his name, king of righteousness, and then also king of Salem, which is king of peace. 3Without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like the Son of God, he remains a priest perpetually.
+!!! scripture "Hebrews 7"
 
-4Now observe how great this man was to whom Abraham, the patriarch, gave a tenth of the choicest spoils. 5And those indeed of the sons of Levi who receive the priest’s office have commandment in the Law to collect a tenth from the people, that is, from their brethren, although these are descended from Abraham. 6But the one whose genealogy is not traced from them collected a tenth from Abraham and blessed the one who had the promises. 7But without any dispute the lesser is blessed by the greater. 8In this case mortal men receive tithes, but in that case one receives them, of whom it is witnessed that he lives on. 9And, so to speak, through Abraham even Levi, who received tithes, paid tithes, 10for he was still in the loins of his father when Melchizedek met him.
+    Melchizedek’s Priesthood Like Christ’s
 
-11Now if perfection was through the Levitical priesthood (for on the basis of it the people received the Law), what further need was there for another priest to arise according to the order of Melchizedek, and not be designated according to the order of Aaron? 12For when the priesthood is changed, of necessity there takes place a change of law also. 13For the one concerning whom these things are spoken belongs to another tribe, from which no one has officiated at the altar. 14For it is evident that our Lord was descended from Judah, a tribe with reference to which Moses spoke nothing concerning priests. 15And this is clearer still, if another priest arises according to the likeness of Melchizedek, 16who has become such not on the basis of a law of physical requirement, but according to the power of an indestructible life. 17For it is attested of Him,
+    1For this Melchizedek, king of Salem, priest of the Most High God, who met Abraham as he was returning from the slaughter of the kings and blessed him, 2to whom also Abraham apportioned a tenth part of all the spoils, was first of all, by the translation of his name, king of righteousness, and then also king of Salem, which is king of peace. 3Without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like the Son of God, he remains a priest perpetually.
 
-“You are a priest forever
+    4Now observe how great this man was to whom Abraham, the patriarch, gave a tenth of the choicest spoils. 5And those indeed of the sons of Levi who receive the priest’s office have commandment in the Law to collect a tenth from the people, that is, from their brethren, although these are descended from Abraham. 6But the one whose genealogy is not traced from them collected a tenth from Abraham and blessed the one who had the promises. 7But without any dispute the lesser is blessed by the greater. 8In this case mortal men receive tithes, but in that case one receives them, of whom it is witnessed that he lives on. 9And, so to speak, through Abraham even Levi, who received tithes, paid tithes, 10for he was still in the loins of his father when Melchizedek met him.
 
-According to the order of Melchizedek.”
+    11Now if perfection was through the Levitical priesthood (for on the basis of it the people received the Law), what further need was there for another priest to arise according to the order of Melchizedek, and not be designated according to the order of Aaron? 12For when the priesthood is changed, of necessity there takes place a change of law also. 13For the one concerning whom these things are spoken belongs to another tribe, from which no one has officiated at the altar. 14For it is evident that our Lord was descended from Judah, a tribe with reference to which Moses spoke nothing concerning priests. 15And this is clearer still, if another priest arises according to the likeness of Melchizedek, 16who has become such not on the basis of a law of physical requirement, but according to the power of an indestructible life. 17For it is attested of Him,
 
-18For, on the one hand, there is a setting aside of a former commandment because of its weakness and uselessness 19(for the Law made nothing perfect), and on the other hand there is a bringing in of a better hope, through which we draw near to God. 20And inasmuch as it was not without an oath 21(for they indeed became priests without an oath, but He with an oath through the One who said to Him,
+    “You are a priest forever
 
-“The Lord has sworn
+    According to the order of Melchizedek.”
 
-And will not change His mind,
+    18For, on the one hand, there is a setting aside of a former commandment because of its weakness and uselessness 19(for the Law made nothing perfect), and on the other hand there is a bringing in of a better hope, through which we draw near to God. 20And inasmuch as it was not without an oath 21(for they indeed became priests without an oath, but He with an oath through the One who said to Him,
 
-‘You are a priest forever’ ”);
+    “The Lord has sworn
 
-22so much the more also Jesus has become the guarantee of a better covenant.
+    And will not change His mind,
 
-23The former priests, on the one hand, existed in greater numbers because they were prevented by death from continuing, 24but Jesus, on the other hand, because He continues forever, holds His priesthood permanently. 25Therefore He is able also to save forever those who draw near to God through Him, since He always lives to make intercession for them.
+    ‘You are a priest forever’ ”);
 
-26For it was fitting for us to have such a high priest, holy, innocent, undefiled, separated from sinners and exalted above the heavens; 27who does not need daily, like those high priests, to offer up sacrifices, first for His own sins and then for the sins of the people, because this He did once for all when He offered up Himself. 28For the Law appoints men as high priests who are weak, but the word of the oath, which came after the Law, appoints a Son, made perfect forever.
+    22so much the more also Jesus has become the guarantee of a better covenant.
 
-Keep Reading
-, notice how the author assures their audience that Jesus is better than any other priest. What are some of the reasons the author provides? How is this good news for everyone?
+    23The former priests, on the one hand, existed in greater numbers because they were prevented by death from continuing, 24but Jesus, on the other hand, because He continues forever, holds His priesthood permanently. 25Therefore He is able also to save forever those who draw near to God through Him, since He always lives to make intercession for them.
+
+    26For it was fitting for us to have such a high priest, holy, innocent, undefiled, separated from sinners and exalted above the heavens; 27who does not need daily, like those high priests, to offer up sacrifices, first for His own sins and then for the sins of the people, because this He did once for all when He offered up Himself. 28For the Law appoints men as high priests who are weak, but the word of the oath, which came after the Law, appoints a Son, made perfect forever.
+
+1. Melchizedek was "king of righteousness" and "kind of peace", Jesus is a priest according to "the order of Melchizedek" and so seems to be that Jesus is the continued reigning king of righteousness and peace
+2. Melchizedek was priest of God Most High - the priestly order changed to Levi with the giving of the Law... Jesus represents, and _is_, another change in the priesthood which necessitates another change in law (verse 12). Jesus' kingship and priesthood is more similar to Melchizek's than Levi's (who was no king anyways).
+3. Levitical priesthood was not bound by an oath - but Jesus' priesthood is bound by Yahweh's oath to not change his mind, Jesus is priest forever
+4. Former priests, Levites, changed due to death, but Jesus persists forever (Melchizedek also presumably died)
+
