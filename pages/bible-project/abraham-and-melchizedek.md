@@ -135,4 +135,45 @@ and a ram is given to him by the LORD that covers the sins of Abraham's family.
     The Lord Will Provide, as it is said to this day, “In the mount of the Lord
     it will be provided.”
 
+!!! success ""
 
+    5Abraham said to his young men, “Stay here with the donkey, and I and the
+    lad will go over there; and we will worship and return to you.”
+
+| Genesis 14 | Genesis 22 | 
+| --- | --- | 
+| Melchizedek provides bread and wine | Yahweh provides the ram | 
+| Yahweh gave Abram victory over Chedorlaomer | Yahweh gave Abraham Isaac's safety | 
+
+!!! note "2"
+As you review Hebrews 7
+Hebrews 7
+
+Melchizedek’s Priesthood Like Christ’s
+
+1For this Melchizedek, king of Salem, priest of the Most High God, who met Abraham as he was returning from the slaughter of the kings and blessed him, 2to whom also Abraham apportioned a tenth part of all the spoils, was first of all, by the translation of his name, king of righteousness, and then also king of Salem, which is king of peace. 3Without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like the Son of God, he remains a priest perpetually.
+
+4Now observe how great this man was to whom Abraham, the patriarch, gave a tenth of the choicest spoils. 5And those indeed of the sons of Levi who receive the priest’s office have commandment in the Law to collect a tenth from the people, that is, from their brethren, although these are descended from Abraham. 6But the one whose genealogy is not traced from them collected a tenth from Abraham and blessed the one who had the promises. 7But without any dispute the lesser is blessed by the greater. 8In this case mortal men receive tithes, but in that case one receives them, of whom it is witnessed that he lives on. 9And, so to speak, through Abraham even Levi, who received tithes, paid tithes, 10for he was still in the loins of his father when Melchizedek met him.
+
+11Now if perfection was through the Levitical priesthood (for on the basis of it the people received the Law), what further need was there for another priest to arise according to the order of Melchizedek, and not be designated according to the order of Aaron? 12For when the priesthood is changed, of necessity there takes place a change of law also. 13For the one concerning whom these things are spoken belongs to another tribe, from which no one has officiated at the altar. 14For it is evident that our Lord was descended from Judah, a tribe with reference to which Moses spoke nothing concerning priests. 15And this is clearer still, if another priest arises according to the likeness of Melchizedek, 16who has become such not on the basis of a law of physical requirement, but according to the power of an indestructible life. 17For it is attested of Him,
+
+“You are a priest forever
+
+According to the order of Melchizedek.”
+
+18For, on the one hand, there is a setting aside of a former commandment because of its weakness and uselessness 19(for the Law made nothing perfect), and on the other hand there is a bringing in of a better hope, through which we draw near to God. 20And inasmuch as it was not without an oath 21(for they indeed became priests without an oath, but He with an oath through the One who said to Him,
+
+“The Lord has sworn
+
+And will not change His mind,
+
+‘You are a priest forever’ ”);
+
+22so much the more also Jesus has become the guarantee of a better covenant.
+
+23The former priests, on the one hand, existed in greater numbers because they were prevented by death from continuing, 24but Jesus, on the other hand, because He continues forever, holds His priesthood permanently. 25Therefore He is able also to save forever those who draw near to God through Him, since He always lives to make intercession for them.
+
+26For it was fitting for us to have such a high priest, holy, innocent, undefiled, separated from sinners and exalted above the heavens; 27who does not need daily, like those high priests, to offer up sacrifices, first for His own sins and then for the sins of the people, because this He did once for all when He offered up Himself. 28For the Law appoints men as high priests who are weak, but the word of the oath, which came after the Law, appoints a Son, made perfect forever.
+
+Keep Reading
+, notice how the author assures their audience that Jesus is better than any other priest. What are some of the reasons the author provides? How is this good news for everyone?
