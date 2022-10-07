@@ -90,10 +90,10 @@ Paul says he chooses joy when he is in jail
 
 !!! note "2"
 
-
-
-The prophet Isaiah looked forward to the coming of Israel’s redeemer. His prophecies were fulfilled with the arrival of Jesus. Read Luke 2:9-11
-. Why were the shepherds afraid? What reasons did the angels give for them to rejoice instead?
+    The prophet Isaiah looked forward to the coming of Israel’s redeemer. His
+    prophecies were fulfilled with the arrival of Jesus. Read Luke 2:9-11 . Why
+    were the shepherds afraid? What reasons did the angels give for them to
+    rejoice instead?
 
 !!! scripture "Luke 2:9-11"
 
