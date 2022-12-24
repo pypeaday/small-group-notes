@@ -1,3 +1,7 @@
+# DEPRECATED
+
+All my notes have been migrated to my blog, [pype.dev](https://pype.dev/faith) and are stored in that repo: https://github.com/pypeaday/pype.dev/
+
 # small-group-notes
 
 ## Notes 
